@@ -1,0 +1,17 @@
+.highlight {
+    background-color: yellow;
+}
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    gap: 20px;
+}
+#button {
+    width: 150px;
+    height: 150px;
+    border:2px solid rgba(0, 0, 0, 0.48);
+    border-radius: 10px;
+}
