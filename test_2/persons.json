@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Joel Miller",
+    "age": 52,
+    "isMarried": false
+  },
+  {
+    "name": "Katniss Everdeen",
+    "age": 27,
+    "isMarried": true
+  },
+  {
+    "name": "Geralt of Rivia",
+    "age": 100,
+    "isMarried": false
+  }
+]
